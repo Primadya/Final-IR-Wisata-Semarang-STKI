@@ -12,4 +12,3 @@ index data -> index.ipynb
 
 Index Compression -> index_compression.ipynb
 -- Berisi proses kompresi index dengan metode *Dictionary as String*
-# Final-IR-Wisata-Semarang-STKI
